@@ -1,0 +1,38 @@
+{
+  "name": "llm-price",
+  "version": "0.1.0",
+  "description": "Calculate LLM API costs for 2,700+ models. Offline pricing database. Zero dependencies.",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "bin": {
+    "llm-price": "bin/cli.js"
+  },
+  "files": [
+    "src/",
+    "bin/"
+  ],
+  "keywords": [
+    "llm",
+    "pricing",
+    "cost",
+    "calculator",
+    "openai",
+    "anthropic",
+    "gpt",
+    "claude",
+    "tokens",
+    "ai"
+  ],
+  "author": "Timur Rakhmatullin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TimurRakhmatullin86/llm-price"
+  },
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
