@@ -3,6 +3,7 @@
 **LLM cost calculator for 2,700+ models. Offline. Zero dependencies.**
 
 [![npm](https://img.shields.io/npm/v/llm-price.svg)](https://www.npmjs.com/package/llm-price)
+[![CI](https://github.com/TimurRakhmatullin86/llm-price/actions/workflows/ci.yml/badge.svg)](https://github.com/TimurRakhmatullin86/llm-price/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 Pricing data for OpenAI, Anthropic, Google, AWS Bedrock, Azure, Mistral, Cohere, AI21, Meta, and 50+ more providers. Updated from [LiteLLM](https://github.com/BerriAI/litellm) pricing.
